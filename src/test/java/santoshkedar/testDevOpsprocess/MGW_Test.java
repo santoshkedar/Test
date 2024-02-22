@@ -8,6 +8,7 @@ public class MGW_Test
 	public void MGW_Test_TC1()
 	{
 		System.out.println("MGW_Test_TC1 - Codes to be implemenated later");
+		System.out.println("MGW_Test_TC1 - Codes to be implemenated later");
 	}
 	
 	@Test
