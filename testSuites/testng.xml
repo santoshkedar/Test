@@ -8,6 +8,7 @@
       <class name="santoshkedar.testDevOpsprocess.TRC_Test"/>
       <class name="santoshkedar.testDevOpsprocess.MGW_Test"/>
       <class name="santoshkedar.testDevOpsprocess.MTS_Test"/>
+      <class name="santoshkedar.testDevOpsprocess.SNF_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
